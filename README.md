@@ -10,14 +10,14 @@ There are some design features on it:
 3.	About (showing the developer information and a little introduction about this project)
    
 ## Documentation
-The Homepage
+#The Homepage
 ![Screenshot (1026)](https://user-images.githubusercontent.com/89381581/204425872-5ad5f3a0-8e65-4e6a-af00-157444f251af.png)
 
-The Book Collection page
+#The Book Collection page
 ![Screenshot (1025)](https://user-images.githubusercontent.com/89381581/204425960-d9db91ae-1822-4052-b3b1-db4d069d903a.png)
 
-The preview of the book that appears after selecting the book title (will be directed to the book archive on the drive)
+#The preview of the book that appears after selecting the book title (will be directed to the book archive on the drive)
 ![Screenshot (1030)](https://user-images.githubusercontent.com/89381581/204426339-ba897abb-f439-4fb9-94eb-8e95b3ee364c.png)
 
-About
+#About
 ![Screenshot (1028)](https://user-images.githubusercontent.com/89381581/204425991-e6e3bd3b-a22d-47bd-b1b0-24c147a48e09.png)
