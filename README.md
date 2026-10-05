@@ -21,7 +21,3 @@ The Book Collection page
 The preview of the book that appears after selecting the book title (will be directed to the book archive on the drive)
 
 ![Screenshot (1030)](https://user-images.githubusercontent.com/89381581/204426339-ba897abb-f439-4fb9-94eb-8e95b3ee364c.png)
-
-About
-
-![Screenshot (1028)](https://user-images.githubusercontent.com/89381581/204425991-e6e3bd3b-a22d-47bd-b1b0-24c147a48e09.png)
